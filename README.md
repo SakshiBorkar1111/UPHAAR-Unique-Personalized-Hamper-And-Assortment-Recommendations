@@ -1,0 +1,2 @@
+# UPHAAR-Unique-Personalized-Hamper-And-Assortment-Recommendations
+AI-powered personalized gift recommendation system for international visitors to India. Uses machine learning models (Logistic Regression, SVM) to suggest culturally rich Indian gifts based on visitor preferences and festivals. Built using Python, Pandas and Scikit-learn. Includes data preprocessing, model evaluation, and recommendation logic.
